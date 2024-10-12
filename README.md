@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Shravan Kulkarni
 - 👀 I’m interested in AI/ML 
-- 🌱 I’m currently learning Generative AI models
+- 🌱 I’m currently learning App Development
 - 💞️ I’m looking to collaborate with like-minded people that will inspire me and drive me towards building AI models that solve real world issues.
 - 📫 How to reach me : Gmail- shravankulkarni2005@gmail.com
 - 😄 Pronouns: He/Him
